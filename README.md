@@ -45,6 +45,8 @@
 > `THEN I should have proper build scripts for a webpack application`
 
 ## Mock-Up
+Link to Deployed Heroku Version:  
+
 The following animation demonstrates the application functionality:  
   
 ![00-demo](https://github.com/nava003/ADN_Text_Editor/assets/32070635/d5669172-825f-4beb-bab6-db39fdac232f)
@@ -62,4 +64,18 @@ The following image shows the application's IndexedDB storage:
 ![03-idb-storage](https://github.com/nava003/ADN_Text_Editor/assets/32070635/529246f6-596e-4e08-9283-5cca25e83097)
 
 ## Student Result
+The following images demonstrate the application's functionality:  
 
+![PWA_C19_IMG1](https://github.com/nava003/ADN_Text_Editor/assets/32070635/21093f3d-b77a-40da-b9cc-18bdfb0e89a4)
+
+This is the `manifest.json` file:  
+
+![PWA_C19_IMG2](https://github.com/nava003/ADN_Text_Editor/assets/32070635/7c873b88-a63a-4fa8-8856-8a058e6aded0)
+
+This is the registered service worker:  
+
+![PWA_C19_IMG3](https://github.com/nava003/ADN_Text_Editor/assets/32070635/06032a45-d93e-48ae-89a7-81411d94fb9d)
+
+This is the IndexedDB Storage:  
+
+![PWA_C19_IMG4](https://github.com/nava003/ADN_Text_Editor/assets/32070635/34eed682-ea81-45da-bfab-45856b7933e5)
