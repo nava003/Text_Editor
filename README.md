@@ -45,7 +45,7 @@
 > `THEN I should have proper build scripts for a webpack application`
 
 ## Mock-Up
-Link to Deployed Heroku Version:  
+Link to Deployed Heroku Version: https://adn-text-editor-app-c7a59821f7b6.herokuapp.com
 
 The following animation demonstrates the application functionality:  
   
