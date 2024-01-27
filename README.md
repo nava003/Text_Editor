@@ -1,4 +1,4 @@
-# ADN_Text_Editor
+# Text_Editor
 
 ## User Story
 > `AS A developer`  
