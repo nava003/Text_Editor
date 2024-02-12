@@ -45,8 +45,6 @@
 > `THEN I should have proper build scripts for a webpack application`
 
 ## Mock-Up
-Link to Deployed Heroku Version: https://adn-text-editor-app-c7a59821f7b6.herokuapp.com
-
 The following animation demonstrates the application functionality:  
   
 ![00-demo](https://github.com/nava003/ADN_Text_Editor/assets/32070635/d5669172-825f-4beb-bab6-db39fdac232f)
@@ -64,6 +62,8 @@ The following image shows the application's IndexedDB storage:
 ![03-idb-storage](https://github.com/nava003/ADN_Text_Editor/assets/32070635/529246f6-596e-4e08-9283-5cca25e83097)
 
 ## Student Result
+Link to Deployed Heroku Version: https://adn-text-editor-app-c7a59821f7b6.herokuapp.com
+
 The following images demonstrate the application's functionality:  
 
 ![PWA_C19_IMG1](https://github.com/nava003/ADN_Text_Editor/assets/32070635/21093f3d-b77a-40da-b9cc-18bdfb0e89a4)
